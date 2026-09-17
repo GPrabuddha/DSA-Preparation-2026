@@ -1,0 +1,2 @@
+1. delete Nth node from behind
+2. merge two sorted linked list
